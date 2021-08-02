@@ -1,0 +1,15 @@
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\bin\WcfService1.dll.config
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\bin\WcfService1.dll
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\bin\WcfService1.pdb
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\bin\DAL.dll
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\bin\EntityFramework.dll
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\bin\DAL.pdb
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\bin\DAL.dll.config
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\bin\EntityFramework.xml
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Pablo Saez\Documents\.NET materia Recibida\SLN practicaFinalCert3ConTodo\WcfService1\obj\Debug\WcfService1.pdb

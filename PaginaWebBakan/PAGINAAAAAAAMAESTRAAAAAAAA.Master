@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PAGINAAAAAAAMAESTRAAAAAAAA.master.cs" Inherits="PaginaWebBakan.PAGINAAAAAAAMAESTRAAAAAAAA" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+            color: #FF0000;
+        }
+    </style>
+</head>
+<body style="background-image:url('Imagenes/ar.jpg')">
+    <form id="form1" runat="server">
+        <h1 class="auto-style1"> <em>Empresa "Incapaz" de Chile</em></h1>
+        <p class="auto-style1"> <a href="Index.aspx">IndexListar</a> || <a href="Agregar.aspx">Agregar </a>|| editar || <a href="Eliminar.aspx">Eliminar</a> || <a href="ListarNombres.aspx">ListaNombres</a></p>
+        <p class="auto-style1"> 
+            <asp:LoginName ID="LoginName1" runat="server" />
+            <asp:LoginStatus ID="LoginStatus1" runat="server" />
+        </p>
+        <p class="auto-style1"> 
+            <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1" ImageSet="Contacts" NodeIndent="10">
+                <HoverNodeStyle Font-Underline="False" />
+                <NodeStyle Font-Names="Verdana" Font-Size="8pt" ForeColor="Black" HorizontalPadding="5px" NodeSpacing="0px" VerticalPadding="0px" />
+                <ParentNodeStyle Font-Bold="True" ForeColor="#5555DD" />
+                <SelectedNodeStyle Font-Underline="True" HorizontalPadding="0px" VerticalPadding="0px" />
+            </asp:TreeView>
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+        </p>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
